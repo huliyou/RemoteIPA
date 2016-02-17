@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.2.44</string>
+					<string>http://120.27.113.239/高视眼科移动平台.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.gvchina.GIEMRMobile</string>
+				<string>om.gvchina.GIEMRMZYS</string>
 				<key>bundle-version</key>
 				<string>2.0</string>
 				<key>kind</key>
